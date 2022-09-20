@@ -9,7 +9,7 @@
 
 * [durcakg@gmail.com](durcakg@gmail.com)
 * [Mi LinkedIn](https://www.linkedin.com/in/gustavodurcak/)
-* [Mi Porfolio web](https://tu-dominio.com/)
+* [Mi Porfolio web](https://gustavodurcak.github.io/portfolio/)
 
 ## Instalación 
 Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz doble click en el .html
